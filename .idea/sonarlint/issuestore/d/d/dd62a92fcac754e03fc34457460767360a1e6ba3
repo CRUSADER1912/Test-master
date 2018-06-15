@@ -1,0 +1,4 @@
+
+squid:S1319"tThe type of the "userDatas" object should be an interface such as "List" rather than the implementation "ArrayList".(Ûë¼8›‰î¿,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Œ‹Æ³øÿÿÿÿ8›‰î¿,
+osquid:MaximumInheritanceDepth"<This class has 9 parents which is greater than 5 authorized.(Ó“æŒşÿÿÿÿ8›‰î¿,
